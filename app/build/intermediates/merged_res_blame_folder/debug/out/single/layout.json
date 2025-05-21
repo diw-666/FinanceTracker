@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/fragment_budget.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/fragment_budget.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/fragment_transactions_simple.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/fragment_transactions_simple.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/fragment_dashboard.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/dialog_edit_budget.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/dialog_edit_budget.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/activity_add_transaction.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/activity_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/item_transaction_simple.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/item_transaction_simple.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/content_main.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/fragment_statistics.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/fragment_profile.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.financetracker.app-mergeDebugResources-52:/layout/activity_settings.xml",
+        "source": "com.example.financetracker.app-main-55:/layout/activity_settings.xml"
+    }
+]

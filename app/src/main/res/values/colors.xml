@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern color palette -->
+    <color name="primary">#5C6BC0</color>
+    <color name="primary_dark">#3949AB</color>
+    <color name="primary_light">#D1D9FF</color>
+    <color name="accent">#03A9F4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="error">#F44336</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    
+    <!-- Transaction colors -->
+    <color name="income_color">#00BFA5</color>
+    <color name="expense_color">#FF5252</color>
+    
+    <!-- Dashboard colors -->
+    <color name="income">#00BFA5</color>
+    <color name="expense">#FF5252</color>
+    <color name="balance">#5C6BC0</color>
+    
+    <!-- Budget colors -->
+    <color name="budget_safe">#00BFA5</color>
+    <color name="budget_warning">#FFB300</color>
+    <color name="budget_danger">#FF5252</color>
+    
+    <!-- Icons and accents -->
+    <color name="icon_color">#5C6BC0</color>
+    <color name="card_shadow">#20000000</color>
+    <color name="divider_color">#E0E0E0</color>
+    <color name="ic_launcher_background">#5C6BC0</color>
+</resources> 

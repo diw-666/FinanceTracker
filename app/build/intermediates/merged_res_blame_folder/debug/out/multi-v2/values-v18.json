@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.financetracker.app-mergeDebugResources-51:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/yasiruvithana/.gradle/caches/8.11.1/transforms/1d7250ed3f8dce503b3c17b4be607755/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
