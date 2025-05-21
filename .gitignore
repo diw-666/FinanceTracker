@@ -12,4 +12,13 @@ node_modules/
 *.log
 
 # Ignore env files (if applicable)
-.env 
+.env
+
+# Ignore Android build artifacts (for example, app/build)
+app/build/
+
+# Ignore Gradle caches (if applicable)
+.gradle/
+
+# Ignore local.properties (if applicable)
+local.properties 
