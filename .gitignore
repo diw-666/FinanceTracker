@@ -21,4 +21,19 @@ app/build/
 .gradle/
 
 # Ignore local.properties (if applicable)
-local.properties 
+local.properties
+
+# Ignore IDE generated files (for example, .idea, *.iml)
+.idea/
+*.iml
+
+# Ignore generated caches (for example, .DS_Store, Thumbs.db, and generated caches)
+Thumbs.db
+.cache/
+
+# Ignore generated (or unnecessary) files (for example, generated caches, logs, and generated dex archives)
+**/build/
+**/tmp/
+**/generated/
+**/out/
+**/intermediates/ 
