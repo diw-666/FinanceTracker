@@ -1,64 +1,68 @@
 # Finance Tracker
 
-A personal finance tracker mobile application developed in Kotlin for Android. This app allows users to track their income, expenses, and savings with an intuitive interface.
+Finance Tracker is a comprehensive Android application designed to facilitate personal financial management. This application enables users to effectively track income, expenses, and savings through an intuitive interface.
 
 ## Features
 
-### Core Features
-1. **Transaction Management**
-   - Add, edit, and delete income and expense transactions
-   - Each transaction includes title, amount, category, and date
+### Core Functionality
 
-2. **Category-wise Spending Analysis**
-   - Categorize transactions (Food, Transport, Bills, Entertainment, etc.)
-   - Display summary of expenses per category
+**Transaction Management** - The application provides comprehensive transaction management capabilities, including the ability to add, edit, and delete financial transactions. Each transaction is recorded with essential details such as title, amount, category, and date, ensuring accurate financial tracking.
 
-3. **Monthly Budget Setup**
-   - Set monthly budget and track progress
-   - Displays warnings when spending nears or exceeds budget limits
+**Category Management** - Users can organize transactions through a robust categorization system. The application includes predefined categories for common expenses while allowing custom category creation. This feature is complemented by visual analytics that provide insights into spending patterns and trends.
 
-4. **Data Persistence using SharedPreferences**
-   - Saves user preferences (currency type, budget settings)
-   - Maintains transaction history across app restarts
+**Budget Management** - The application offers sophisticated budget management tools, enabling users to set and monitor monthly budgets. Real-time updates and intelligent alerts ensure users maintain control over their financial goals. The system supports category-specific budget allocation for detailed financial planning.
 
-### Bonus Features
-1. **Data Backup using Internal Storage**
-   - Export transaction data as JSON
-   - Restore data from backups
+**Data Management** - Security and reliability are paramount in the application's data management system. Automatic backup functionality ensures data integrity, while export capabilities allow for data portability. Cross-device synchronization provides seamless access across multiple platforms.
 
-2. **Push Notifications for Budget Alerts**
-   - Notifications when approaching or exceeding monthly budget
-   - Optional reminders to record daily expenses
+### Advanced Features
 
-## Technical Implementation
+**Data Security** - The application implements robust data security measures, including encryption for sensitive information. Users can export data in multiple formats and import historical data, with automated backup scheduling ensuring data preservation.
 
-This app demonstrates the following Android development concepts:
+**Notification System** - An intelligent notification system provides timely alerts for budget thresholds, payment reminders, and daily expense tracking. Users can customize notification preferences to suit their individual needs.
 
-- Kotlin language features
-- XML layouts for UI design
+## Technical Specifications
+
+The application is developed using modern Android development practices and technologies:
+- Kotlin programming language
+- Android SDK 24+ compatibility
 - MVVM architecture pattern
-- SharedPreferences for data persistence
-- Internal Storage for backup and restore functionality
-- RecyclerView for efficient list display
-- Material Design components
-- Date handling and formatting
-- Notifications using NotificationManager
+- Material Design 3 components
+- Room Database for data persistence
+- Coroutines for asynchronous operations
 
-## Screenshots
+## Installation
 
-(Screenshots would be added here once the app is running)
+To install and run the application:
 
-## How to Build and Run
+1. Clone the repository:
+```bash
+git clone https://github.com/diw-666/FinanceTracker.git
+```
 
-1. Clone this repository
-2. Open the project in Android Studio
-3. Connect an Android device or use the emulator
-4. Build and run the application
+2. Open the project in Android Studio and allow the Gradle sync to complete.
 
-## Future Improvements
+3. Build the project using the build button or keyboard shortcut (Ctrl+F9).
 
-- Add charts and graphs for better visualization
-- Implement search and filtering options
-- Add recurring transactions
-- Integrate with cloud storage for backup
-- Add multi-currency support with conversion rates 
+4. Run the application on an Android device or emulator using the run button or keyboard shortcut (Shift+F10).
+
+## Configuration
+
+The application offers extensive customization options:
+- Currency selection
+- Notification preferences
+- Theme customization (Light/Dark/System)
+- Backup scheduling
+- Budget alert thresholds
+
+## Contributing
+
+We welcome contributions to the project. To contribute:
+1. Fork the repository
+2. Implement your changes
+3. Submit a pull request
+4. Ensure all tests pass and documentation is updated
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
