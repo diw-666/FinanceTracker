@@ -17,6 +17,9 @@ node_modules/
 # Ignore Android build artifacts (for example, app/build)
 app/build/
 
+# Ignore Google Services configuration
+app/google-services.json
+
 # Ignore Gradle caches (if applicable)
 .gradle/
 
